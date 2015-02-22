@@ -19,4 +19,9 @@ console.log(node) // mongodb://pt.domain.com
 
 ````
 
+##### Testing
+
+  npm test
+
+
  **Let me know whatever you think that is wrong. I'll appreciate.**
